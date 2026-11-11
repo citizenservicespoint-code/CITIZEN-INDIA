@@ -1,0 +1,6 @@
+{
+  "name": "Citizen Services Point",
+  "description": "Citizen Services Point | This Project Under Citizen India - Committed to transparent and accessible digital citizen services, application tracking, and government scheme guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

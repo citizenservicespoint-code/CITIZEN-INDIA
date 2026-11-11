@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Home Page -->
+  <url>
+    <loc>https://citizenservicespoint.co.in/</loc>
+    <lastmod>2026-08-29T07:40:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.00</priority>
+  </url>
+
+  <!-- Application Tracker -->
+  <url>
+    <loc>https://citizenservicespoint.co.in/tracker</loc>
+    <lastmod>2026-08-29T07:40:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- Customer Service Request Form -->
+  <url>
+    <loc>https://citizenservicespoint.co.in/service-request</loc>
+    <lastmod>2026-08-29T07:40:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- Government Schemes & Offline Forms -->
+  <url>
+    <loc>https://citizenservicespoint.co.in/schemes</loc>
+    <lastmod>2026-08-29T07:40:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- About Portal & Leadership -->
+  <url>
+    <loc>https://citizenservicespoint.co.in/about</loc>
+    <lastmod>2026-08-29T07:40:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Cyber Safety Hub -->
+  <url>
+    <loc>https://citizenservicespoint.co.in/cyber-safety</loc>
+    <lastmod>2026-08-29T07:40:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Contact & Helplines -->
+  <url>
+    <loc>https://citizenservicespoint.co.in/contact</loc>
+    <lastmod>2026-08-29T07:40:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Privacy Policy & Legal Declaration -->
+  <url>
+    <loc>https://citizenservicespoint.co.in/privacy-policy</loc>
+    <lastmod>2026-08-29T07:40:00+00:00</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.60</priority>
+  </url>
+
+</urlset>

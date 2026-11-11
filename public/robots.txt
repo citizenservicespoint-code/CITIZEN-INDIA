@@ -1,0 +1,8 @@
+# Robots.txt for Citizen Services Point (Citizen India)
+# Website: https://citizenservicespoint.co.in/
+
+User-agent: *
+Allow: /
+
+# Canonical Sitemap Index
+Sitemap: https://citizenservicespoint.co.in/sitemap.xml
